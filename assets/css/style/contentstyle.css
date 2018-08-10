@@ -1,0 +1,25 @@
+.profile {
+	padding-top: 20px;
+}
+
+.profile .caption p {
+	font-family: 'Pacifico', cursive;
+	font-size: 2em;
+}
+
+.profile li {
+	font-size: 2em;
+	list-style: none;
+}
+
+.kolom {
+	background: white;
+}
+
+a {
+    color: inherit;
+}
+
+.table-striped > tbody > tr:nth-child(even) > td, .table-striped > tbody > tr:nth-child(2n+1) > th {
+   background-color: #ED4264;
+}
